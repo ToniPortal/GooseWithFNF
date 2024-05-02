@@ -1,0 +1,16 @@
+{
+  "name": "randomjuskbox",
+  "version": "1.0.0",
+  "description": "RandomJubox",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["jukbox","goose"],
+  "author": "ToniPortal",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^11.2.0"
+  }
+}
