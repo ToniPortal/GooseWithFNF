@@ -40,7 +40,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="TaskDemo_FollowLowAccel.cs" />
     <Compile Include="ModMain.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

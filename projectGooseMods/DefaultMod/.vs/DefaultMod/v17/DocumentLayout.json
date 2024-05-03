@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\TaskDemo_FollowLowAccel.cs||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TaskDemo_FollowLowAccel.cs||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\DefaultMod.csproj||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DefaultMod.csproj||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaskDemo_FollowLowAccel.cs",
+              "DocumentMoniker": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\TaskDemo_FollowLowAccel.cs",
+              "RelativeDocumentMoniker": "TaskDemo_FollowLowAccel.cs",
+              "ToolTip": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\TaskDemo_FollowLowAccel.cs",
+              "RelativeToolTip": "TaskDemo_FollowLowAccel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:13:21.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DefaultMod.csproj",
+              "DocumentMoniker": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\DefaultMod.csproj",
+              "RelativeDocumentMoniker": "DefaultMod.csproj",
+              "ToolTip": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\DefaultMod.csproj",
+              "RelativeToolTip": "DefaultMod.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-02T14:13:17.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

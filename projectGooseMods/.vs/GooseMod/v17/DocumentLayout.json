@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B28CF25D-843C-45B6-AEF1-0A117F1852F5}|DefaultMod\\DefaultMod.csproj|C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\defaultmod\\modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B28CF25D-843C-45B6-AEF1-0A117F1852F5}|DefaultMod\\DefaultMod.csproj|solutionrelative:defaultmod\\modmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0849C98-E0DF-47A4-944E-377EFAC303F1}|GooseModdingAPI\\GooseModdingAPI.csproj|c:\\users\\g2r\\documents\\github\\fnfgoose\\projectgoosemods\\goosemoddingapi\\exports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0849C98-E0DF-47A4-944E-377EFAC303F1}|GooseModdingAPI\\GooseModdingAPI.csproj|solutionrelative:goosemoddingapi\\exports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F0849C98-E0DF-47A4-944E-377EFAC303F1}|GooseModdingAPI\\GooseModdingAPI.csproj|c:\\users\\g2r\\documents\\github\\fnfgoose\\projectgoosemods\\goosemoddingapi\\samengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0849C98-E0DF-47A4-944E-377EFAC303F1}|GooseModdingAPI\\GooseModdingAPI.csproj|solutionrelative:goosemoddingapi\\samengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Exports.cs",
+              "DocumentMoniker": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\GooseModdingAPI\\Exports.cs",
+              "RelativeDocumentMoniker": "GooseModdingAPI\\Exports.cs",
+              "ToolTip": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\GooseModdingAPI\\Exports.cs",
+              "RelativeToolTip": "GooseModdingAPI\\Exports.cs",
+              "ViewState": "AQIAADcBAAAAAAAAAAAQwE8BAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:01:21.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SamEngine.cs",
+              "DocumentMoniker": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\GooseModdingAPI\\SamEngine.cs",
+              "RelativeDocumentMoniker": "GooseModdingAPI\\SamEngine.cs",
+              "ToolTip": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\GooseModdingAPI\\SamEngine.cs",
+              "RelativeToolTip": "GooseModdingAPI\\SamEngine.cs",
+              "ViewState": "AQIAAJ8AAAAAAAAAAAAqwL8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T09:12:16.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ModMain.cs",
+              "DocumentMoniker": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\ModMain.cs",
+              "RelativeDocumentMoniker": "DefaultMod\\ModMain.cs",
+              "ToolTip": "C:\\Users\\g2r\\Documents\\Github\\FnfGoose\\projectGooseMods\\DefaultMod\\ModMain.cs",
+              "RelativeToolTip": "DefaultMod\\ModMain.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T14:28:10.37Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+C:\Users\g2r\Documents\Github\FnfGoose\projectGooseMods\GooseModdingAPI\bin\Debug\GooseModdingAPI.dll
+C:\Users\g2r\Documents\Github\FnfGoose\projectGooseMods\GooseModdingAPI\bin\Debug\GooseModdingAPI.pdb
+C:\Users\g2r\Documents\Github\FnfGoose\projectGooseMods\GooseModdingAPI\obj\Debug\GooseModdingAPI.csproj.AssemblyReference.cache
+C:\Users\g2r\Documents\Github\FnfGoose\projectGooseMods\GooseModdingAPI\obj\Debug\GooseModdingAPI.csproj.CoreCompileInputs.cache
+C:\Users\g2r\Documents\Github\FnfGoose\projectGooseMods\GooseModdingAPI\obj\Debug\GooseModdingAPI.dll
+C:\Users\g2r\Documents\Github\FnfGoose\projectGooseMods\GooseModdingAPI\obj\Debug\GooseModdingAPI.pdb
